@@ -84,6 +84,7 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+.gitignore
 # Environment
 .env
 .venv
@@ -92,8 +93,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
-# mkdocs
+Udemy_Course_By_Krish_naike/GeminiApp/.conda
+Udemy_Course_By_Krish_naike/GeminiApp/.env
+simple-local-rag-nx/ venv
 site/
 
 # Airflow
